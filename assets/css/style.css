@@ -745,7 +745,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: url("https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/319850888_1237956217067002_8284009869170400664_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=ZgOkKhl-6cQAX9xx-0h&_nc_ht=scontent.fotp3-4.fna&oh=00_AfDvPdWW9_T8TI64CbLCCqc6TEpw-lfCaUwNbk-31jT0pQ&oe=64721160") center center;
+  background: url("https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/319850888_1237956217067002_8284009869170400664_n.png") center center;
   background-size: cover;
   position: relative;
   padding: 80px 0;
